@@ -10,6 +10,7 @@ A collection of custom Claude skills for advanced development workflows.
 | **ml-solution-architect** | End-to-end ML solution design (problem framing, model selection, evaluation, deployment, monitoring) |
 | **production-frontend** | Clean, maintainable, production-grade frontend code following real-world practices |
 | **pwa-builder** | Progressive Web Apps with offline-first architecture, installability, and mobile optimization |
+| **multi-agent-orchestrator** | Design and build multi-agent systems (architecture patterns, communication, state management, deployment) |
 
 ## Usage
 
