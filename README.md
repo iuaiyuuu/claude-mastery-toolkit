@@ -30,6 +30,7 @@ This is system design with discipline.
 | **production-frontend** | Clean, maintainable, production-grade frontend code with accessibility, performance, and security defaults |
 | **pwa-builder** | Progressive Web Apps with offline-first architecture, installability, caching strategies, and mobile optimization |
 | **multi-agent-orchestrator** | Framework-agnostic multi-agent system design (agent roles, message schemas, memory models, orchestration, guardrails) |
+| **docker-deploy** | Production-ready DevOps deployment setup — Dockerfile, Docker Compose, Nginx reverse proxy, GitHub Actions CI/CD with GHCR, single-server SSH deployment. No Kubernetes, no cloud-managed services. |
 
 ---
 
@@ -44,6 +45,7 @@ Using these skills together enables:
 - ML systems designed for production from day one  
 - Database schemas that survive scale  
 - Frontend code that looks like a real engineering team built it  
+- Single-server Docker deployments with CI/CD from push to production  
 
 This toolkit effectively turns Claude into a modular AI engineering stack.
 
@@ -79,6 +81,7 @@ You can combine them:
 - `db-architect` + `production-frontend`  
 - `ml-solution-architect` + `multi-agent-orchestrator`  
 - `pwa-builder` + `production-frontend`  
+- `production-frontend` + `docker-deploy` for build-to-deploy workflows  
 - All of them together for full-stack AI systems  
 
 ---
@@ -109,7 +112,7 @@ This toolkit prioritizes:
 
 Potential future additions:
 
-- DevOps Systems Architect  
+- ~~DevOps Systems Architect~~ → Shipped as **docker-deploy**  
 - Security Architect  
 - Cloud Architecture Designer  
 - SRE Playbook  
