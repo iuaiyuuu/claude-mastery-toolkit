@@ -1,4 +1,4 @@
-# 🚀 Claude Mastery Toolkit
+#  Claude Mastery Toolkit
 
 A curated collection of production-grade Claude skills for building real-world systems — not demos, not prototypes, not tutorials.
 
@@ -6,7 +6,7 @@ This toolkit transforms Claude into a structured engineering collaborator capabl
 
 ---
 
-## 🧠 Philosophy
+##  Philosophy
 
 Each skill in this toolkit is:
 
@@ -21,7 +21,7 @@ This is system design with discipline.
 
 ---
 
-## 📦 Skills
+##  Skills
 
 | Skill | Description |
 |-------|-------------|
@@ -34,7 +34,7 @@ This is system design with discipline.
 
 ---
 
-## 🏗️ What You Can Build With This
+##  What You Can Build With This
 
 Using these skills together enables:
 
@@ -51,7 +51,7 @@ This toolkit effectively turns Claude into a modular AI engineering stack.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 Each skill follows a consistent structure:
 
@@ -68,7 +68,7 @@ This progressive disclosure model keeps interactions focused while preserving de
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 1. Open Claude → Settings → Custom Skills  
 2. Import each skill directory  
@@ -86,7 +86,7 @@ You can combine them:
 
 ---
 
-## 🔐 Design Principles
+##  Design Principles
 
 This toolkit prioritizes:
 
@@ -98,7 +98,7 @@ This toolkit prioritizes:
 
 ---
 
-## 🎯 Intended Audience
+##  Intended Audience
 
 - Engineers building real products  
 - ML practitioners deploying models to production  
@@ -108,7 +108,7 @@ This toolkit prioritizes:
 
 ---
 
-## 📈 Roadmap
+##  Roadmap
 
 Potential future additions:
 
@@ -121,7 +121,7 @@ Potential future additions:
 
 ---
 
-## 🧩 Final Note
+##  Final Note
 
 Claude is powerful by default.
 
